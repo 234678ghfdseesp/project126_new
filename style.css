@@ -1,0 +1,42 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    text-shadow: 5px 5px 5px rgb(195, 128, 218);
+    color: rgb(255, 255, 255);
+    font-family: fantasy;
+    font-size: 20px;
+}
+.NOTE{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+}
+body{
+    background-image: url("https://th.bing.com/th/id/R.6e4afb539dfde3e06f51277e7319b657?rik=gKtRZV%2bvCw3%2bhw&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fAL2nkYz.jpg&ehk=9ziZSYN%2f3qsu75Fy10BkfEQ1PQRUvk8kFJ1%2fMv8h30w%3d&risl=&pid=ImgRaw&r=0");
+    background-size: cover;
+    background-position: fixed;
+
+}
+.div_speed{
+    float: left;
+   
+}
+.div_speed_img{
+    width: 200px;
+    border-radius: 100px;
+
+}
+.div_volume{
+    float: right;
+}
+#speed,#volume{
+   font-size: 23px;
+   margin: 15px;
+}
+canvas{
+    border:5px  solid white;
+    border-radius: 30px;
+    
+    
+}
+
